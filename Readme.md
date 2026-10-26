@@ -2,6 +2,8 @@
 
 This project demonstrates some basic C unit test coverage.
 
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 # High Level Requirements
 
 TBD
@@ -9,4 +11,3 @@ TBD
 # Low Level Requirements
 
 TBD
-
